@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weblogic-web-app xmlns="http://xmlns.oracle.com/weblogic/weblogic-web-app">
+ <session-descriptor><persistent-store-type>replicated_if_clustered</persistent-store-type></session-descriptor>
+ <resource-description><res-ref-name>jdbc/PedidosDS</res-ref-name><jndi-name>jdbc/PedidosDS</jndi-name></resource-description>
+ <context-root>/pedidos</context-root>
+</weblogic-web-app>

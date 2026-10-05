@@ -1,0 +1,9 @@
+br/com/exemplo/legado/PedidoServlet.class
+br/com/exemplo/legado/LegacyAudit.class
+br/com/exemplo/legado/LegacyWarmup.class
+br/com/exemplo/legado/PedidoListener.class
+br/com/exemplo/legado/LegacyRemoteLookup.class
+br/com/exemplo/legado/LegacyReportDao.class
+br/com/exemplo/legado/PedidoService.class
+br/com/exemplo/legado/Pedido.class
+br/com/exemplo/legado/LegacyWarmup$1.class

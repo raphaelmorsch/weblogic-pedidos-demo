@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weblogic-ejb-jar xmlns="http://xmlns.oracle.com/weblogic/weblogic-ejb-jar">
+ <weblogic-enterprise-bean><ejb-name>PedidoListener</ejb-name><message-driven-descriptor>
+  <destination-jndi-name>jms/PedidosQueue</destination-jndi-name>
+  <connection-factory-jndi-name>jms/PedidosConnectionFactory</connection-factory-jndi-name>
+ </message-driven-descriptor></weblogic-enterprise-bean>
+</weblogic-ejb-jar>
